@@ -1,0 +1,15 @@
+{
+  "ver": "1.0.833",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9137ab66-2d5b-48ce-98ff-a524c13a1b3d",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/TS/SubLoader.ts",
+    "importAsPlugin": false
+  }
+}
