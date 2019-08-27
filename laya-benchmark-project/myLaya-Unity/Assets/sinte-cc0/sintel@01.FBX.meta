@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 7b025408b10e3f449b5bdf8c1b7f4095
+timeCreated: 1566875418
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: mixamorig:Head
+    100002: mixamorig:HeadTop_End
+    100004: mixamorig:Hips
+    100006: mixamorig:LeftArm
+    100008: mixamorig:LeftFoot
+    100010: mixamorig:LeftForeArm
+    100012: mixamorig:LeftHand
+    100014: mixamorig:LeftHandIndex1
+    100016: mixamorig:LeftHandIndex2
+    100018: mixamorig:LeftHandIndex3
+    100020: mixamorig:LeftHandIndex4
+    100022: mixamorig:LeftHandMiddle1
+    100024: mixamorig:LeftHandMiddle2
+    100026: mixamorig:LeftHandMiddle3
+    100028: mixamorig:LeftHandMiddle4
+    100030: mixamorig:LeftHandPinky1
+    100032: mixamorig:LeftHandPinky2
+    100034: mixamorig:LeftHandPinky3
+    100036: mixamorig:LeftHandPinky4
+    100038: mixamorig:LeftHandRing1
+    100040: mixamorig:LeftHandRing2
+    100042: mixamorig:LeftHandRing3
+    100044: mixamorig:LeftHandRing4
+    100046: mixamorig:LeftHandThumb1
+    100048: mixamorig:LeftHandThumb2
+    100050: mixamorig:LeftHandThumb3
+    100052: mixamorig:LeftHandThumb4
+    100054: mixamorig:LeftLeg
+    100056: mixamorig:LeftShoulder
+    100058: mixamorig:LeftToe_End
+    100060: mixamorig:LeftToeBase
+    100062: mixamorig:LeftUpLeg
+    100064: mixamorig:Neck
+    100066: mixamorig:RightArm
+    100068: mixamorig:RightFoot
+    100070: mixamorig:RightForeArm
+    100072: mixamorig:RightHand
+    100074: mixamorig:RightHandIndex1
+    100076: mixamorig:RightHandIndex2
+    100078: mixamorig:RightHandIndex3
+    100080: mixamorig:RightHandIndex4
+    100082: mixamorig:RightHandMiddle1
+    100084: mixamorig:RightHandMiddle2
+    100086: mixamorig:RightHandMiddle3
+    100088: mixamorig:RightHandMiddle4
+    100090: mixamorig:RightHandPinky1
+    100092: mixamorig:RightHandPinky2
+    100094: mixamorig:RightHandPinky3
+    100096: mixamorig:RightHandPinky4
+    100098: mixamorig:RightHandRing1
+    100100: mixamorig:RightHandRing2
+    100102: mixamorig:RightHandRing3
+    100104: mixamorig:RightHandRing4
+    100106: mixamorig:RightHandThumb1
+    100108: mixamorig:RightHandThumb2
+    100110: mixamorig:RightHandThumb3
+    100112: mixamorig:RightHandThumb4
+    100114: mixamorig:RightLeg
+    100116: mixamorig:RightShoulder
+    100118: mixamorig:RightToe_End
+    100120: mixamorig:RightToeBase
+    100122: mixamorig:RightUpLeg
+    100124: mixamorig:Spine
+    100126: mixamorig:Spine1
+    100128: mixamorig:Spine2
+    100130: necklace_pendant_necklace_pendant_bone
+    100132: objGEO-ankle_piece_ankle_piece_leatherStraps_leather_06_diff_pn
+    100134: objGEO-ankle_piece_ankle_piece_sintel_metal_leather_06_diff_png
+    100136: objGEO-armL_warmer_armL_warmer_leatherStraps_leather_06_diff_pn
+    100138: objGEO-armL_warmer_armL_warmer_sweater_sleeves_sintel_sweater_p
+    100140: objGEO-armR_sleeve_armR_sleeve_leather_sintel_sweater_png
+    100142: objGEO-belt_belt_SintelBelt_leather_07_diff_png
+    100144: objGEO-belt_buckle_belt_buckle_sintel_metal_metal_02_diff_png
+    100146: objGEO-body_body_Sintel_Skin1_layer_sintel_skin_diff_png
+    100148: objGEO-body_mouth_body_mouth_inside_mouth_sintel_teeth_diff_png
+    100150: objGEO-body_mouth_body_mouth_inside_mouth_teeth
+    100152: objGEO-bootL_straps_bootL_straps_leatherLegstrap_leather_06_dif
+    100154: objGEO-boots_boots_leatherBoots_sintel_boots_png
+    100156: objGEO-cornea_cornea_cornea_eye_sintel_eyeball_bm
+    100158: objGEO-corset_corset_leather2_leather_06_diff_png
+    100160: objGEO-corset_corset_leather_leather_06_diff_png
+    100162: objGEO-corset_corset_sintel_metal
+    100164: objGEO-emit_lash_top_emit_lash_top_eyelash_up
+    100166: objGEO-gloves_gloves_leatherGloves_leather_06_diff_png
+    100168: objGEO-hair_proxy_hair_proxy_red
+    100170: objGEO-hip_shield_hip_shield_sintel_metal_metal_02_diff_png
+    100172: objGEO-necklace_rope_necklace_rope_leather
+    100174: objGEO-pants_pants_leather2
+    100176: objGEO-pants_pants_leatherPants_sintel_pants_png
+    100178: objGEO-pants_pants_sintel_metal
+    100180: objGEO-pouch_pouch_leather_leather_06_diff_png
+    100182: objGEO-pouch_pouch_sintel_metal_leather_06_diff_png
+    100184: objGEO-shirt_hooks_shirt_hooks_sintel_metal_metal_02_diff_png
+    100186: objGEO-shirt_shirt_sweater_main_sintel_sweater_painte
+    100188: objGEO-shirt_shirt_sweater_straps_sintel_sweater_painte
+    100190: objGEO-shouldL_shield_shouldL_shield_sintel_metal
+    100192: objGEO-shouldL_straps_shouldL_straps_leather_leather_06_diff_pn
+    100194: objstitches_04_stitches_04_dark_leather_straps
+    100196: //RootNode
+    400000: mixamorig:Head
+    400002: mixamorig:HeadTop_End
+    400004: mixamorig:Hips
+    400006: mixamorig:LeftArm
+    400008: mixamorig:LeftFoot
+    400010: mixamorig:LeftForeArm
+    400012: mixamorig:LeftHand
+    400014: mixamorig:LeftHandIndex1
+    400016: mixamorig:LeftHandIndex2
+    400018: mixamorig:LeftHandIndex3
+    400020: mixamorig:LeftHandIndex4
+    400022: mixamorig:LeftHandMiddle1
+    400024: mixamorig:LeftHandMiddle2
+    400026: mixamorig:LeftHandMiddle3
+    400028: mixamorig:LeftHandMiddle4
+    400030: mixamorig:LeftHandPinky1
+    400032: mixamorig:LeftHandPinky2
+    400034: mixamorig:LeftHandPinky3
+    400036: mixamorig:LeftHandPinky4
+    400038: mixamorig:LeftHandRing1
+    400040: mixamorig:LeftHandRing2
+    400042: mixamorig:LeftHandRing3
+    400044: mixamorig:LeftHandRing4
+    400046: mixamorig:LeftHandThumb1
+    400048: mixamorig:LeftHandThumb2
+    400050: mixamorig:LeftHandThumb3
+    400052: mixamorig:LeftHandThumb4
+    400054: mixamorig:LeftLeg
+    400056: mixamorig:LeftShoulder
+    400058: mixamorig:LeftToe_End
+    400060: mixamorig:LeftToeBase
+    400062: mixamorig:LeftUpLeg
+    400064: mixamorig:Neck
+    400066: mixamorig:RightArm
+    400068: mixamorig:RightFoot
+    400070: mixamorig:RightForeArm
+    400072: mixamorig:RightHand
+    400074: mixamorig:RightHandIndex1
+    400076: mixamorig:RightHandIndex2
+    400078: mixamorig:RightHandIndex3
+    400080: mixamorig:RightHandIndex4
+    400082: mixamorig:RightHandMiddle1
+    400084: mixamorig:RightHandMiddle2
+    400086: mixamorig:RightHandMiddle3
+    400088: mixamorig:RightHandMiddle4
+    400090: mixamorig:RightHandPinky1
+    400092: mixamorig:RightHandPinky2
+    400094: mixamorig:RightHandPinky3
+    400096: mixamorig:RightHandPinky4
+    400098: mixamorig:RightHandRing1
+    400100: mixamorig:RightHandRing2
+    400102: mixamorig:RightHandRing3
+    400104: mixamorig:RightHandRing4
+    400106: mixamorig:RightHandThumb1
+    400108: mixamorig:RightHandThumb2
+    400110: mixamorig:RightHandThumb3
+    400112: mixamorig:RightHandThumb4
+    400114: mixamorig:RightLeg
+    400116: mixamorig:RightShoulder
+    400118: mixamorig:RightToe_End
+    400120: mixamorig:RightToeBase
+    400122: mixamorig:RightUpLeg
+    400124: mixamorig:Spine
+    400126: mixamorig:Spine1
+    400128: mixamorig:Spine2
+    400130: necklace_pendant_necklace_pendant_bone
+    400132: objGEO-ankle_piece_ankle_piece_leatherStraps_leather_06_diff_pn
+    400134: objGEO-ankle_piece_ankle_piece_sintel_metal_leather_06_diff_png
+    400136: objGEO-armL_warmer_armL_warmer_leatherStraps_leather_06_diff_pn
+    400138: objGEO-armL_warmer_armL_warmer_sweater_sleeves_sintel_sweater_p
+    400140: objGEO-armR_sleeve_armR_sleeve_leather_sintel_sweater_png
+    400142: objGEO-belt_belt_SintelBelt_leather_07_diff_png
+    400144: objGEO-belt_buckle_belt_buckle_sintel_metal_metal_02_diff_png
+    400146: objGEO-body_body_Sintel_Skin1_layer_sintel_skin_diff_png
+    400148: objGEO-body_mouth_body_mouth_inside_mouth_sintel_teeth_diff_png
+    400150: objGEO-body_mouth_body_mouth_inside_mouth_teeth
+    400152: objGEO-bootL_straps_bootL_straps_leatherLegstrap_leather_06_dif
+    400154: objGEO-boots_boots_leatherBoots_sintel_boots_png
+    400156: objGEO-cornea_cornea_cornea_eye_sintel_eyeball_bm
+    400158: objGEO-corset_corset_leather2_leather_06_diff_png
+    400160: objGEO-corset_corset_leather_leather_06_diff_png
+    400162: objGEO-corset_corset_sintel_metal
+    400164: objGEO-emit_lash_top_emit_lash_top_eyelash_up
+    400166: objGEO-gloves_gloves_leatherGloves_leather_06_diff_png
+    400168: objGEO-hair_proxy_hair_proxy_red
+    400170: objGEO-hip_shield_hip_shield_sintel_metal_metal_02_diff_png
+    400172: objGEO-necklace_rope_necklace_rope_leather
+    400174: objGEO-pants_pants_leather2
+    400176: objGEO-pants_pants_leatherPants_sintel_pants_png
+    400178: objGEO-pants_pants_sintel_metal
+    400180: objGEO-pouch_pouch_leather_leather_06_diff_png
+    400182: objGEO-pouch_pouch_sintel_metal_leather_06_diff_png
+    400184: objGEO-shirt_hooks_shirt_hooks_sintel_metal_metal_02_diff_png
+    400186: objGEO-shirt_shirt_sweater_main_sintel_sweater_painte
+    400188: objGEO-shirt_shirt_sweater_straps_sintel_sweater_painte
+    400190: objGEO-shouldL_shield_shouldL_shield_sintel_metal
+    400192: objGEO-shouldL_straps_shouldL_straps_leather_leather_06_diff_pn
+    400194: objstitches_04_stitches_04_dark_leather_straps
+    400196: //RootNode
+    4300000: objGEO-shirt_hooks_shirt_hooks_sintel_metal_metal_02_diff_png
+    4300002: objGEO-pouch_pouch_leather_leather_06_diff_png
+    4300004: objGEO-necklace_rope_necklace_rope_leather
+    4300006: objGEO-pouch_pouch_sintel_metal_leather_06_diff_png
+    4300008: objGEO-armR_sleeve_armR_sleeve_leather_sintel_sweater_png
+    4300010: objGEO-armL_warmer_armL_warmer_sweater_sleeves_sintel_sweater_p
+    4300012: objGEO-bootL_straps_bootL_straps_leatherLegstrap_leather_06_dif
+    4300014: objGEO-body_body_Sintel_Skin1_layer_sintel_skin_diff_png
+    4300016: objGEO-shirt_shirt_sweater_main_sintel_sweater_painte
+    4300018: objGEO-body_mouth_body_mouth_inside_mouth_teeth
+    4300020: objGEO-gloves_gloves_leatherGloves_leather_06_diff_png
+    4300022: objGEO-pants_pants_leatherPants_sintel_pants_png
+    4300024: objGEO-ankle_piece_ankle_piece_leatherStraps_leather_06_diff_pn
+    4300026: objGEO-corset_corset_sintel_metal
+    4300028: objGEO-corset_corset_leather_leather_06_diff_png
+    4300030: objGEO-cornea_cornea_cornea_eye_sintel_eyeball_bm
+    4300032: objGEO-pants_pants_leather2
+    4300034: objGEO-pants_pants_sintel_metal
+    4300036: objGEO-hair_proxy_hair_proxy_red
+    4300038: objGEO-shouldL_shield_shouldL_shield_sintel_metal
+    4300040: objGEO-emit_lash_top_emit_lash_top_eyelash_up
+    4300042: objGEO-body_mouth_body_mouth_inside_mouth_sintel_teeth_diff_png
+    4300044: objGEO-shirt_shirt_sweater_straps_sintel_sweater_painte
+    4300046: objGEO-shouldL_straps_shouldL_straps_leather_leather_06_diff_pn
+    4300048: objstitches_04_stitches_04_dark_leather_straps
+    4300050: objGEO-belt_belt_SintelBelt_leather_07_diff_png
+    4300052: objGEO-hip_shield_hip_shield_sintel_metal_metal_02_diff_png
+    4300054: necklace_pendant_necklace_pendant_bone
+    4300056: objGEO-corset_corset_leather2_leather_06_diff_png
+    4300058: objGEO-belt_buckle_belt_buckle_sintel_metal_metal_02_diff_png
+    4300060: objGEO-boots_boots_leatherBoots_sintel_boots_png
+    4300062: objGEO-armL_warmer_armL_warmer_leatherStraps_leather_06_diff_pn
+    4300064: objGEO-ankle_piece_ankle_piece_sintel_metal_leather_06_diff_png
+    7400000: 01
+    9500000: //RootNode
+    13700000: necklace_pendant_necklace_pendant_bone
+    13700002: objGEO-ankle_piece_ankle_piece_leatherStraps_leather_06_diff_pn
+    13700004: objGEO-ankle_piece_ankle_piece_sintel_metal_leather_06_diff_png
+    13700006: objGEO-armL_warmer_armL_warmer_leatherStraps_leather_06_diff_pn
+    13700008: objGEO-armL_warmer_armL_warmer_sweater_sleeves_sintel_sweater_p
+    13700010: objGEO-armR_sleeve_armR_sleeve_leather_sintel_sweater_png
+    13700012: objGEO-belt_belt_SintelBelt_leather_07_diff_png
+    13700014: objGEO-belt_buckle_belt_buckle_sintel_metal_metal_02_diff_png
+    13700016: objGEO-body_body_Sintel_Skin1_layer_sintel_skin_diff_png
+    13700018: objGEO-body_mouth_body_mouth_inside_mouth_sintel_teeth_diff_png
+    13700020: objGEO-body_mouth_body_mouth_inside_mouth_teeth
+    13700022: objGEO-bootL_straps_bootL_straps_leatherLegstrap_leather_06_dif
+    13700024: objGEO-boots_boots_leatherBoots_sintel_boots_png
+    13700026: objGEO-cornea_cornea_cornea_eye_sintel_eyeball_bm
+    13700028: objGEO-corset_corset_leather2_leather_06_diff_png
+    13700030: objGEO-corset_corset_leather_leather_06_diff_png
+    13700032: objGEO-corset_corset_sintel_metal
+    13700034: objGEO-emit_lash_top_emit_lash_top_eyelash_up
+    13700036: objGEO-gloves_gloves_leatherGloves_leather_06_diff_png
+    13700038: objGEO-hair_proxy_hair_proxy_red
+    13700040: objGEO-hip_shield_hip_shield_sintel_metal_metal_02_diff_png
+    13700042: objGEO-necklace_rope_necklace_rope_leather
+    13700044: objGEO-pants_pants_leather2
+    13700046: objGEO-pants_pants_leatherPants_sintel_pants_png
+    13700048: objGEO-pants_pants_sintel_metal
+    13700050: objGEO-pouch_pouch_leather_leather_06_diff_png
+    13700052: objGEO-pouch_pouch_sintel_metal_leather_06_diff_png
+    13700054: objGEO-shirt_hooks_shirt_hooks_sintel_metal_metal_02_diff_png
+    13700056: objGEO-shirt_shirt_sweater_main_sintel_sweater_painte
+    13700058: objGEO-shirt_shirt_sweater_straps_sintel_sweater_painte
+    13700060: objGEO-shouldL_shield_shouldL_shield_sintel_metal
+    13700062: objGEO-shouldL_straps_shouldL_straps_leather_leather_06_diff_pn
+    13700064: objstitches_04_stitches_04_dark_leather_straps
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 01
+      takeName: 01
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3/mixamorig:LeftHandMiddle4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3/mixamorig:LeftHandPinky4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3/mixamorig:LeftHandRing4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3/mixamorig:LeftHandThumb4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3/mixamorig:RightHandMiddle4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3/mixamorig:RightHandPinky4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3/mixamorig:RightHandRing4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3/mixamorig:RightHandThumb4
+        weight: 1
+      - path: necklace_pendant_necklace_pendant_bone
+        weight: 1
+      - path: objGEO-ankle_piece_ankle_piece_leatherStraps_leather_06_diff_pn
+        weight: 1
+      - path: objGEO-ankle_piece_ankle_piece_sintel_metal_leather_06_diff_png
+        weight: 1
+      - path: objGEO-armL_warmer_armL_warmer_leatherStraps_leather_06_diff_pn
+        weight: 1
+      - path: objGEO-armL_warmer_armL_warmer_sweater_sleeves_sintel_sweater_p
+        weight: 1
+      - path: objGEO-armR_sleeve_armR_sleeve_leather_sintel_sweater_png
+        weight: 1
+      - path: objGEO-belt_belt_SintelBelt_leather_07_diff_png
+        weight: 1
+      - path: objGEO-belt_buckle_belt_buckle_sintel_metal_metal_02_diff_png
+        weight: 1
+      - path: objGEO-body_body_Sintel_Skin1_layer_sintel_skin_diff_png
+        weight: 1
+      - path: objGEO-body_mouth_body_mouth_inside_mouth_sintel_teeth_diff_png
+        weight: 1
+      - path: objGEO-body_mouth_body_mouth_inside_mouth_teeth
+        weight: 1
+      - path: objGEO-bootL_straps_bootL_straps_leatherLegstrap_leather_06_dif
+        weight: 1
+      - path: objGEO-boots_boots_leatherBoots_sintel_boots_png
+        weight: 1
+      - path: objGEO-cornea_cornea_cornea_eye_sintel_eyeball_bm
+        weight: 1
+      - path: objGEO-corset_corset_leather2_leather_06_diff_png
+        weight: 1
+      - path: objGEO-corset_corset_leather_leather_06_diff_png
+        weight: 1
+      - path: objGEO-corset_corset_sintel_metal
+        weight: 1
+      - path: objGEO-emit_lash_top_emit_lash_top_eyelash_up
+        weight: 1
+      - path: objGEO-gloves_gloves_leatherGloves_leather_06_diff_png
+        weight: 1
+      - path: objGEO-hair_proxy_hair_proxy_red
+        weight: 1
+      - path: objGEO-hip_shield_hip_shield_sintel_metal_metal_02_diff_png
+        weight: 1
+      - path: objGEO-necklace_rope_necklace_rope_leather
+        weight: 1
+      - path: objGEO-pants_pants_leather2
+        weight: 1
+      - path: objGEO-pants_pants_leatherPants_sintel_pants_png
+        weight: 1
+      - path: objGEO-pants_pants_sintel_metal
+        weight: 1
+      - path: objGEO-pouch_pouch_leather_leather_06_diff_png
+        weight: 1
+      - path: objGEO-pouch_pouch_sintel_metal_leather_06_diff_png
+        weight: 1
+      - path: objGEO-shirt_hooks_shirt_hooks_sintel_metal_metal_02_diff_png
+        weight: 1
+      - path: objGEO-shirt_shirt_sweater_main_sintel_sweater_painte
+        weight: 1
+      - path: objGEO-shirt_shirt_sweater_straps_sintel_sweater_painte
+        weight: 1
+      - path: objGEO-shouldL_shield_shouldL_shield_sintel_metal
+        weight: 1
+      - path: objGEO-shouldL_straps_shouldL_straps_leather_leather_06_diff_pn
+        weight: 1
+      - path: objstitches_04_stitches_04_dark_leather_straps
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
