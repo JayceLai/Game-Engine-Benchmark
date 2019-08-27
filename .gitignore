@@ -69,3 +69,8 @@ quick_gen_project_*_autogen.sh.meta
 
 .vscode/
 /libs
+
+.laya/
+
+/laya-benchmark-project/myLayaTest/bin/js
+/laya-benchmark-project/myLayaTest/bin/res
