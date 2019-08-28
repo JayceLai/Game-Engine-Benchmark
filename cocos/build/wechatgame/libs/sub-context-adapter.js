@@ -37,13 +37,13 @@ wx.onMessage(function (data) {
 
 // // Canvas component adaptation
 
-// cc.Canvas.prototype.update = function () {
+// cc.CanvasComponent.prototype.update = function () {
 //     if (this._width !== cc.game.canvas.width || this._height !== cc.game.canvas.height) {
 //         this.applySettings();
 //     }
 // };
 
-// cc.Canvas.prototype.applySettings = function () {
+// cc.CanvasComponent.prototype.applySettings = function () {
 //     var ResolutionPolicy = cc.ResolutionPolicy;
 //     var policy;
 //     if (this.fitHeight && this.fitWidth) {

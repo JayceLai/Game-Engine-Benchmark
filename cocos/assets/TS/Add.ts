@@ -9,7 +9,7 @@ export class Add extends Component {
 
     private _rangex = 0;
     private _rangez = 0;
-    private _number = 16;
+    private _number = 30;
 
     private _i = 0;
 
@@ -23,12 +23,13 @@ export class Add extends Component {
     }
 
     start () {
-        for (this._i; this._i < 16; this._i++) {
+        for (this._i; this._i < this._number; this._i++) {
             this._rangex = math.randomRange(-3, 3);
             this._rangez = math.randomRange(0, 20);
             this.PrefabTest();
         }
-        this._number = 16;
+        
+        this._text.string = this._number.toString();
 
         profiler.showStats();
     }

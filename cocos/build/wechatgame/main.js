@@ -113,6 +113,7 @@ window.boot = function () {
 
     // jsList
     var jsList = settings.jsList;
+	/* <!--  --> */
 	
 		var bundledScript = 'src/project.js';
         if (jsList) {

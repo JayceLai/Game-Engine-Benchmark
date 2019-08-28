@@ -6,7 +6,7 @@ class Main {
 	private skeletonScene: Laya.Scene3D = null;
 	private maxZ: number = 30;
 	private maxX: number = 6;
-	private initAmount: number = 16;
+	private initAmount: number = 30;
 
 	private testViewUI: ui.TestViewUI = null;
 
