@@ -9,7 +9,7 @@
   "_techIdx": 0,
   "_defines": [
     {
-      "USE_COLOR": true
+      "USE_TEXTURE": true
     }
   ],
   "_states": [
@@ -31,6 +31,9 @@
         "g": 12,
         "b": 5,
         "a": 255
+      },
+      "mainTexture": {
+        "__uuid__": "e2b9b083-6a0f-41e9-864a-2d4c5bf1354f@texture"
       }
     }
   ]

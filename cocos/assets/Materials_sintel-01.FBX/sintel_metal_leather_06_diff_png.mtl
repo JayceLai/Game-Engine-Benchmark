@@ -9,7 +9,7 @@
   "_techIdx": 0,
   "_defines": [
     {
-      "USE_COLOR": true
+      "USE_TEXTURE": true
     }
   ],
   "_states": [
